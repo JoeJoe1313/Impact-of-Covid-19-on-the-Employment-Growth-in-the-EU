@@ -2,4 +2,4 @@
 
 ### TO DO 
 
-[ ] upload the functions.py helping file
+- [ ] upload the functions.py helping file
